@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html langue="pt-br">
+<head>
+    <meta charset="utf-8">
+    <title>treino</title>
+</head>
+<body>
+   
+   <label for="">name:</label><br>
+  <input type="nome" name="c_name" size="20" id="name" autocomplete="off"><br>
+    <label for="">sobrenome:</label><br>
+  <input type="name" name="c_sobrenome" size="20"><br>
+
+  <p>qual sua cor favorita:</p>
+  <input type="radio" nome="cores" volue="c1">
+  <label for="azul">azul</label><br>
+  <input type="radio" nome="cores" volue="c2">
+  <label for="rosa">rosa</label><br>
+
+  <p>qual é seu filme favorito:</p>
+  <input type="checkbox" name="fimes" id="terror" value="f01">
+  <label for="terror">terror</label><br>
+  <input type="checkbox" name="filmes" id="comédia" value="f02">
+  <label for="comedia">comedia</label><br>
+  
+  
+
+</body>
